@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Desenvolvedor-FullStack-blueviolet?style=for-the-badge" />
 </p>
 
-Sou desenvolvedor de software, trabalho com **front-end e back-end**, e gosto de construir aplicações web e mobile do zero — do banco de dados à interface. Estou sempre estudando novas tecnologias e melhorando meus projetos no dia a dia.
+Desenvolvo sistemas que melhoram o fluxo e a operação da empresa antes feitos em planilhas: um CRM com WhatsApp nativo e Agentes de IA para o time de vendas, uma plataforma de gestão que substituiu o ponto em papel e integrações que acabaram com o retrabalho entre estoque, financeiro e e-commerce. Gosto de resolver o problema certo: entender onde o trabalho trava e construir o que destrava..
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexis-prado-56647418b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
