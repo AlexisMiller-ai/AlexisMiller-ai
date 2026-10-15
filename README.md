@@ -48,11 +48,11 @@ Desenvolvo sistemas que melhoram o fluxo e a operação da empresa antes feitos 
 <h2>📌 Projetos em destaque</h2>
 
 <p align="center">
-  <a href="https://github.com/AlexisMiller-ai/Exbeauty-tasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisMiller-ai&repo=Exbeauty-tasks&theme=tokyonight" />
+  <a href="https://github.com/AlexisMiller-ai/finanzz-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisMiller-ai&repo=finanzz-frontend&theme=tokyonight" />
   </a>
-  <a href="https://github.com/AlexisMiller-ai/exbeauty-tasks-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisMiller-ai&repo=exbeauty-tasks-backend&theme=tokyonight" />
+  <a href="https://github.com/AlexisMiller-ai/finanzz-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisMiller-ai&repo=finanzz-backend&theme=tokyonight" />
   </a>
 </p>
 
