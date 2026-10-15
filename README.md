@@ -48,6 +48,15 @@ Desenvolvo sistemas que melhoram o fluxo e a operação da empresa antes feitos 
 <h2>📌 Projetos em destaque</h2>
 
 <p align="center">
+  <a href="https://github.com/AlexisMiller-ai/crm-comercial-ia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisMiller-ai&repo=crm-comercial-ia&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AlexisMiller-ai/plataforma-gestao-interna">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisMiller-ai&repo=plataforma-gestao-interna&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/AlexisMiller-ai/finanzz-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisMiller-ai&repo=finanzz-frontend&theme=tokyonight" />
   </a>
