@@ -9,11 +9,12 @@
   <img src="https://img.shields.io/badge/Desenvolvedor-FullStack-blueviolet?style=for-the-badge" />
 </p>
 
-Desenvolvo sistemas que melhoram o fluxo e a operação da empresa antes feitos em planilhas: um CRM com WhatsApp nativo e Agentes de IA para o time de vendas, uma plataforma de gestão que substituiu o ponto em papel e integrações que acabaram com o retrabalho entre estoque, financeiro e e-commerce. Gosto de resolver o problema certo: entender onde o trabalho trava e construir o que destrava..
+Desenvolvo sistemas que melhoram o fluxo e a operação da empresa antes feitos em planilhas: um CRM com WhatsApp nativo e Agentes de IA para o time de vendas, uma plataforma de gestão que substituiu o ponto em papel e integrações que acabaram com o retrabalho entre estoque, financeiro e e-commerce. Gosto de resolver o problema certo: entender onde o trabalho trava e construir o que destrava.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexis-prado-56647418b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/aleexisprado/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://alexisprado.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/AlexisMiller-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
